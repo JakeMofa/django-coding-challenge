@@ -37,3 +37,8 @@ Your task is to extend this project wth some new endpoints and features, as foll
   * A Movie with 4 reviewers, who each gave the Movie 2, 2, 3, and 4 stars would result in an `avg_rating` of `2.75`
 * Add Query Parameters to the List View that allows filtering on the `runtime`
   * It should be possible to filter for either longer or shorter than the input
+
+
+
+
+
